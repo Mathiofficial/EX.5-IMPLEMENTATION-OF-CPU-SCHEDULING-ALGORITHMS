@@ -314,6 +314,7 @@ int main()
 
 ## OUTPUT:
 
+![image](https://github.com/Mathiofficial/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/118787327/487cad68-ee3f-461b-8279-778f574949f2)
 
 
 ## RESULT:
