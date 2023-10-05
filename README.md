@@ -313,7 +313,7 @@ int main()
 ```
 
 ## OUTPUT:
-![image](https://github.com/Mathiofficial/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/118787327/fc12ef8f-5ad5-4ee0-a836-0d029639f61d)
+
 
 
 ## RESULT:
@@ -512,7 +512,8 @@ int main()
 }
 ```
 ## OUTPUT:
-![image](https://github.com/Mathiofficial/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/118787327/d8a7ec2a-a739-4d15-99d8-203de9b017bb)
+![image](https://github.com/Mathiofficial/EX.5-IMPLEMENTATION-OF-CPU-SCHEDULING-ALGORITHMS/assets/118787327/6c2e2c4e-6234-428e-bcd4-dea1b9c89312)
+
 
 
 ## RESULT:
